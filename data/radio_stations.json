@@ -1,0 +1,2043 @@
+[
+  {
+    "name": "FM4",
+    "mrl": "http://mp3stream1.apasf.apa.at:8000/listen.pls",
+    "website": "http://fm4.orf.at/",
+    "logo": "http://www.projectmooncircle.com/files/fm4logo.png"
+  },
+  {
+    "name": "EgoFM",
+    "mrl": "http://edge.live.mp3.mdn.newmedia.nacamar.net/egofm_192/livestream.mp3",
+    "website": "http://www.egofm.de/",
+    "logo": "http://www.jff.de/images/MZM/1-egoFM.jpg"
+  },
+  {
+    "name": "M94.5",
+    "mrl": "http://stream.m945.mwn.de/m945-hq.mp3",
+    "website": "http://www.m945.de/",
+    "logo": "https://twimg0-a.akamaihd.net/profile_images/1152264662/M945_logo_RGB_transparent.png"
+  },
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.pulsradio.com", 
+    "name": "Puls Radio", 
+    "mrl": "http://stream.pulsradio.com:5000", 
+    "logo": "http://remydumont.net/dev/rpl/img/Puls_Radio.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.generationsfm.com", 
+    "name": "Generations 88.2", 
+    "mrl": "http://generationfm.ice.infomaniak.ch/generationfm-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Generations_88.2.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.bigfm.de", 
+    "name": "Big FM", 
+    "mrl": "http://217.151.152.245/bigfm-mp3-96", 
+    "logo": "http://remydumont.net/dev/rpl/img/Big_FM.png"
+  }, 
+  {
+    "category": "Anime/Jpop", 
+    "website": "http://www.kawaiiradio.org/", 
+    "name": "Kawaii Radio", 
+    "mrl": "http://listen.radionomy.com/kawaiiradio.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/KawaiiRadio.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix VIP", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-vip-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_VIP.png"
+  }, 
+  {
+    "category": "Anime/Jpop", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Japan", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-japan-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Japan.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Sunny", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-sunny-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Sunny.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.funradio.fr", 
+    "name": "Fun Radio", 
+    "mrl": "http://streaming.radio.funradio.fr:80/fun-1-44-128", 
+    "logo": "http://remydumont.net/dev/rpl/img/Fun_Radio.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.mycontact.fr", 
+    "name": "Contact FM", 
+    "mrl": "http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Contact.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.radiofg.com", 
+    "name": "FG Radio", 
+    "mrl": "http://fg.impek.com/;flash.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/FG_Radio.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.enjoystation.net", 
+    "name": "Enjoy Station", 
+    "mrl": "http://listen.radionomy.com/EnjoyStation.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/Enjoy.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.top100station.de", 
+    "name": "Top 100 Station", 
+    "mrl": "http://www.top100station.de/switch/top100station.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Top100Station.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virginradio.fr", 
+    "name": "Virgin Radio", 
+    "mrl": "http://vipicecast.yacast.net:80/virginradio", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.rtl2.fr", 
+    "name": "RTL2", 
+    "mrl": "http://streaming.radio.rtl2.fr/rtl2-1-44-128", 
+    "logo": "http://remydumont.net/dev/rpl/img/RTL2.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.lemouv.com", 
+    "name": "Le mouv'", 
+    "mrl": "http://mp3.live.tv-radio.com/lemouv/all/lemouvhautdebit.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Le_mouv.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.ouifm.fr", 
+    "name": "Ou\u00ef FM", 
+    "mrl": "http://ouifm.ice.infomaniak.ch/ouifm-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Oui_FM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj/all/nrj_113225.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.rfm.fr", 
+    "name": "RFM", 
+    "mrl": "http://vipicecast.yacast.net:80/rfm", 
+    "logo": "http://remydumont.net/dev/rpl/img/RFM.png"
+  }, 
+  {
+    "category": "Humour", 
+    "website": "http://www.rireetchansons.fr", 
+    "name": "Rire & Chansons", 
+    "mrl": "http://mp3.live.tv-radio.com/rire_et_chansons/all/rir_124629.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Rire_Chansons.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nostalgie.fr", 
+    "name": "Nostalgie", 
+    "mrl": "http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Nostalgie.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.cheriefm.fr", 
+    "name": "Cherie FM", 
+    "mrl": "http://mp3.live.tv-radio.com/cherie_fm/all/che_124310.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Cherie_FM.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.francemusique.com", 
+    "name": "France Musique", 
+    "mrl": "http://mp3.live.tv-radio.com/francemusique/all/francemusiquehautdebit.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/France_Musique.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.monafm.fr", 
+    "name": "Mona FM", 
+    "mrl": "http://broadcast.infomaniak.net:80/monafm-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Mona_FM.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.skyrock.fm/radio", 
+    "name": "Skyrock", 
+    "mrl": "http://vipicecast.yacast.net:80/skyrock", 
+    "logo": "http://remydumont.net/dev/rpl/img/Skyrock.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rtl.fr", 
+    "name": "RTL", 
+    "mrl": "http://streaming.radio.rtl.fr/rtl-1-44-128", 
+    "logo": "http://remydumont.net/dev/rpl/img/RTL.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rmc.fr", 
+    "name": "RMC", 
+    "mrl": "http://vipicecast.yacast.net:80/rmc", 
+    "logo": "http://remydumont.net/dev/rpl/img/RMC.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.europe1.fr", 
+    "name": "Europe 1", 
+    "mrl": "http://vipicecast.yacast.net:80/europe1", 
+    "logo": "http://remydumont.net/dev/rpl/img/Europe1.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.franceinter.com", 
+    "name": "France Inter", 
+    "mrl": "http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/France_Inter.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.franceculture.com", 
+    "name": "France Culture", 
+    "mrl": "http://mp3.live.tv-radio.com/franceculture/all/franceculturehautdebit.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/France_Culture.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.radiobfm.com", 
+    "name": "BFM Radio", 
+    "mrl": "http://vipicecast.yacast.net:80/bfm", 
+    "logo": "http://remydumont.net/dev/rpl/img/BFM.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.francophonieexpress.com", 
+    "name": "Francophonie Express", 
+    "mrl": "http://listen.radionomy.com/francophonie-express", 
+    "logo": "http://remydumont.net/dev/rpl/img/Francophonie_Express.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.novaplanet.com", 
+    "name": "Radio Nova", 
+    "mrl": "http://broadcast.infomaniak.ch/radionova-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioNova.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.deejay.it", 
+    "name": "Radio Deejay", 
+    "mrl": "http://mp3.kataweb.it:8000/RadioDeejay", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Deejay.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.irfm.fr", 
+    "name": "I-R'FM", 
+    "mrl": "http://www.irfm.fr/irfm.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/IRFM.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://educadorafm.uol.com.br/", 
+    "name": "Educadora FM", 
+    "mrl": "mms://p.mm.uol.com.br/educadorafm", 
+    "logo": "http://remydumont.net/dev/rpl/img/EducadoraFM.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.antena1.com.br", 
+    "name": "Antena 1", 
+    "mrl": "http://s3.mediastreaming.it:7568/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Antena1.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.97fm.com.br/", 
+    "name": "Energia 97 FM", 
+    "mrl": "http://mp4.97fm.com.br:80/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Energia97FM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.mixfm.com.br/", 
+    "name": "Mix FM", 
+    "mrl": "mmsh://p.mm.uol.com.br/mixriofm", 
+    "logo": "http://remydumont.net/dev/rpl/img/MixFM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radiocontact.be", 
+    "name": "Radio Contact", 
+    "mrl": "http://audiostream.rtl.be/contactfr192", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioContact.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.alouette.fr", 
+    "name": "Alouette", 
+    "mrl": "http://broadcast.infomaniak.net:80/alouette-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Alouette.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.rac105.org", 
+    "name": "RAC 105", 
+    "mrl": "http://streaming105.radiocat.net:80", 
+    "logo": "http://remydumont.net/dev/rpl/img/RAC105.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.endonline.com", 
+    "name": "107.9 The End", 
+    "mrl": "http://2463.live.streamtheworld.com:80/KDNDFMCMP3", 
+    "logo": "http://remydumont.net/dev/rpl/img/107.9_TheEnd.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rfi.fr", 
+    "name": "RFI", 
+    "mrl": "http://stream.rfi.fr/rfimonde/all/rfimonde-64k.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/RFI.png"
+  }, 
+  {
+    "category": "Funk/Disco", 
+    "website": "http://www.deevaradio.net/diva/index.html", 
+    "name": "Diva Radio Funk", 
+    "mrl": "http://deevaradio.net/diva/stream/divaradio_wa.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/DivaRadioFunk.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.radioclassique.fr", 
+    "name": "Radio Classique", 
+    "mrl": "http://broadcast.infomaniak.net:80/radioclassique-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioClassique.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radiocourtoisie.net", 
+    "name": "Radio Courtoisie", 
+    "mrl": "http://mp3.live.tv-radio.com/courtoisie/all/courtoisie.mp3", 
+    "logo": ""
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.france-info.com", 
+    "name": "France Info", 
+    "mrl": "http://vipicecast.yacast.net:80/franceinfo", 
+    "logo": "http://remydumont.net/dev/rpl/img/France_Info.png"
+  }, 
+  {
+    "category": "Funk/Disco", 
+    "website": "http://www.rfm.fr/#/Webradios/RFM-Night-Fever", 
+    "name": "RFM Night Fever", 
+    "mrl": "http://vipicecast.yacast.net:80/rfm_webradio02", 
+    "logo": "http://remydumont.net/dev/rpl/img/RFM_Night_Fever.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.radiosun.fr", 
+    "name": "Radio Sun", 
+    "mrl": "http://broadcast.infomaniak.net:80/radiosun-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/SunRadio.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.deltafm.fr/", 
+    "name": "Delta FM", 
+    "mrl": "http://deltafmdunkerque.ice.infomaniak.ch:80/deltafmdunkerque-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/DeltaFM.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.stubru.be/", 
+    "name": "Studio Brussel", 
+    "mrl": "http://mp3.streampower.be/stubru-high", 
+    "logo": "http://remydumont.net/dev/rpl/img/Studio_Brussel.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.ekodesgarrigues.com", 
+    "name": "L'Eko des Garrigues", 
+    "mrl": "http://91.121.159.124:8002/", 
+    "logo": "http://remydumont.net/dev/rpl/img/EKO.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.chantefrance.com", 
+    "name": "Chante France", 
+    "mrl": "http://stream.chantefrance.com/stream_chante_france.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Chante_France.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.sweetfm.fr", 
+    "name": "Sweet FM", 
+    "mrl": "http://stream.sweetfm.fr:21000/", 
+    "logo": "http://remydumont.net/dev/rpl/img/SweetFM.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.sudradio.fr", 
+    "name": "Sud Radio", 
+    "mrl": "http://broadcast.infomaniak.net:80/start-sud-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Sud_Radio.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://mixxradio.fr", 
+    "name": "Mixx Radio", 
+    "mrl": "http://95.81.146.2/3122/mixx_fm/mixxfmhd.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Mixx_Radio.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.rtbf.be/classic21", 
+    "name": "Classic 21", 
+    "mrl": "http://classic21.ice.infomaniak.ch/classic21.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Classic21.png"
+  }, 
+  {
+    "category": "Maghreb/Oriental", 
+    "website": "http://www.beurfm.net", 
+    "name": "Beur FM", 
+    "mrl": "http://broadcast.infomaniak.net:80/beurfm-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/BeurFM.png"
+  }, 
+  {
+    "category": "Maghreb/Oriental", 
+    "website": "http://www.medi1.com", 
+    "name": "Medi 1", 
+    "mrl": "http://streaming08.mit.ovea.com/medi1", 
+    "logo": "http://remydumont.net/dev/rpl/img/Medi1.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://977music.com", 
+    "name": ".977 The Hits", 
+    "mrl": "http://7659.live.streamtheworld.com:80/977_HITS_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://977music.com", 
+    "name": ".977 The 80's", 
+    "mrl": "http://7579.live.streamtheworld.com:80/977_80_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Country", 
+    "website": "http://977music.com", 
+    "name": ".977 Country", 
+    "mrl": "http://7619.live.streamtheworld.com:80/977_COUNTRY_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://977music.com", 
+    "name": ".977 Classic Rock", 
+    "mrl": "http://7639.live.streamtheworld.com:80/977_CLASSROCK_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://977music.com", 
+    "name": ".977 Alternative", 
+    "mrl": "http://7669.live.streamtheworld.com:80/977_ALTERN_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Oldies", 
+    "website": "http://977music.com", 
+    "name": ".977 Oldies", 
+    "mrl": "http://7659.live.streamtheworld.com:80/977_OLDIES_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://977music.com", 
+    "name": ".977 Adult Hits", 
+    "mrl": "http://7619.live.streamtheworld.com:80/977_MIX_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Jazz/Blues", 
+    "website": "http://977music.com", 
+    "name": ".977 Smooth Jazz", 
+    "mrl": "http://7669.live.streamtheworld.com:80/977_SMOOJAZZ_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Humour", 
+    "website": "http://977music.com", 
+    "name": ".977 Comedy", 
+    "mrl": "http://7659.live.streamtheworld.com:80/977_COMEDY_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "90's", 
+    "website": "http://977music.com", 
+    "name": ".977 The 90's", 
+    "mrl": "http://7669.live.streamtheworld.com:80/977_90_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://977music.com", 
+    "name": ".977 The Jamz", 
+    "mrl": "http://7599.live.streamtheworld.com:80/977_JAMZ_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/977Music.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.radiophonik.net", 
+    "name": "RadioPhoniK Zen", 
+    "mrl": "http://94.23.0.111:8040", 
+    "logo": ""
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.nonstopplay.com", 
+    "name": "Non Stop Play", 
+    "mrl": "http://www.nonstopplay.com/site/media/pls/broadband.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/NonStopPlay.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://sites.radiofrance.fr/chaines/fip/accueil/", 
+    "name": "FIP", 
+    "mrl": "http://mp3.live.tv-radio.com/fip/all/fiphautdebit.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/FIP.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.r101.it", 
+    "name": "R101", 
+    "mrl": "http://str30.creacast.com/r101a", 
+    "logo": "http://remydumont.net/dev/rpl/img/R101.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://cbn.globoradio.globo.com", 
+    "name": "CBN", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_cbnbsb_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/CBN.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://beat98.globoradio.globo.com", 
+    "name": "Beat 98", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_98fmrj_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/Beat98.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://cbn.globoradio.globo.com", 
+    "name": "BH FM", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_bhfm_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/BH_FM.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://radioglobo.globoradio.globo.com", 
+    "name": "Radio Globo", 
+    "mrl": "http://www.livestation.com/account/streams/2835971-globo_fm__rio_de_janeiro.asx", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Globo.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://multishowfm.globoradio.globo.com", 
+    "name": "Multi Show FM", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_multishow_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/MultiShowFM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://radiognt.globoradio.globo.com", 
+    "name": "Radio GNT", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_gnt_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioGNT.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://radiozonadeimpacto.globoradio.globo.com", 
+    "name": "Zona De Impacto", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_sportv_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Zona.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://globofm.globoradio.globo.com", 
+    "name": "Globo FM", 
+    "mrl": "mms://wm-sgr-live.globo.com/sgr_off_globofmrj_live.wma", 
+    "logo": "http://remydumont.net/dev/rpl/img/GloboFM.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Dance", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-dance-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Dance.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Hits", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hits-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Hits.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Rock", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-rock-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Rock.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix New", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-new-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_New.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix 80", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-80-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_80.png"
+  }, 
+  {
+    "category": "90's", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix 90", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-90-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_90.png"
+  }, 
+  {
+    "category": "Funk/Disco", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Funky", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-funky-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Funky.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Hot", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Hot.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Frenchy", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-frenchy-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Frenchy.png"
+  }, 
+  {
+    "category": "Metal", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Metal", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-metal-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Metal.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radiomeuh.com", 
+    "name": "Radio Meuh", 
+    "mrl": "http://auvehachun.radiomeuh.com:8000/big.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioMeuh.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.rsr.ch/#/couleur3", 
+    "name": "Couleur 3", 
+    "mrl": "http://broadcast.infomaniak.net:80/rsr-couleur3-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Couleur3.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.radiovagabondage.fr", 
+    "name": "Radio Vagabondage", 
+    "mrl": "http://str45.streamakaci.com:9130", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Vagabondage.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Hits", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_hits/all/nrj_150726.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Hits.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Dance", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_dance/all/nrj_151505.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Dance.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ RnB", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_rnb/all/nrj_151038.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_RnB.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Pop", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_pop/all/nrj_151240.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Pop.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Rock", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_rock/all/nrj_161510.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Rock.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Friendly", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_friendly/all/nrj_164207.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Friendly.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Clubbin'", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_clubbin/all/nrj_153250.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Clubbin.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ New York", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_new-york/all/nrj_140527.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_NewYork.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Rap FR", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_rap_fr/all/nrj_145338.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_RapFR.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Nouveaut\u00e9s", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_nouveaute/all/nrj_161209.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Fresh.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Mastermix", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_mastermix/all/nrj_163522.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Mastermix.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Running", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_running/all/nrj_162813.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Running.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Lounge", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_lounge/all/nrj_151750.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Lounge.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.radio-canada.ca", 
+    "name": "Radio Canada", 
+    "mrl": "http://premierechaine-64.akacast.akamaistream.net/7/36/94045/v1/rc.akacast.akamaistream.net/premierechaine-64", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Canada.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://station.ru", 
+    "name": "\u041f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u043e \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u043e\u0439", 
+    "mrl": "http://station.ru/getStreamUrl.ashx?stationId=mpe", 
+    "logo": "http://remydumont.net/dev/rpl/img/Max_Provelect.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://station.ru", 
+    "name": "\u0423\u0440\u043e\u043a\u0438 \u0420\u0443\u0441\u0441\u043a\u043e\u0433\u043e", 
+    "mrl": "http://station.ru/getStreamUrl.ashx?stationId=uroki_russkogo", 
+    "logo": "http://remydumont.net/dev/rpl/img/Max_Uroki.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://station.ru", 
+    "name": "FM Caf\u00e9", 
+    "mrl": "http://station.ru/getStreamUrl.ashx?stationId=fmcafe", 
+    "logo": "http://remydumont.net/dev/rpl/img/Max_FM-Cafe.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://station.ru", 
+    "name": "Maximum", 
+    "mrl": "http://station.ru/getStreamUrl.ashx?stationId=maximum", 
+    "logo": "http://remydumont.net/dev/rpl/img/Maximum.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.newgenerations.fr", 
+    "name": "New G\u00e9n\u00e9rations", 
+    "mrl": "http://listen.radionomy.com/new-generations", 
+    "logo": "http://remydumont.net/dev/rpl/img/New_Generations.png"
+  }, 
+  {
+    "category": "Jazz/Blues", 
+    "website": "http://www.radioswissjazz.ch", 
+    "name": "Radio Swiss Jazz", 
+    "mrl": "http://livestream.srg-ssr.ch/1/rsj/mp3_128", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Swiss_Jazz.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radiobonheur.com/RBonheur/index_bonheur.php", 
+    "name": "Radio Bonheur", 
+    "mrl": "http://mp3.live.tv-radio.com/radiobonheur/all/radiobonheur.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Bonheur.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.hauteangevine.com", 
+    "name": "Haute Angevine", 
+    "mrl": "http://str0.creacast.com/rha", 
+    "logo": "http://remydumont.net/dev/rpl/img/Haute_Angevine.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radio-g.org", 
+    "name": "Radio-G", 
+    "mrl": "http://94.23.204.48:8000/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio-G.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.hitwest.com", 
+    "name": "Hit West", 
+    "mrl": "http://broadcast.infomaniak.net:80/hitwest-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hit_West.png"
+  }, 
+  {
+    "category": "Jazz/Blues", 
+    "website": "http://www.tsfjazz.com", 
+    "name": "TSF Jazz", 
+    "mrl": "http://broadcast.infomaniak.net:80/tsfjazz-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/TSF_Jazz.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radiosilver.net", 
+    "name": "Radio-Silver", 
+    "mrl": "http://listen.radionomy.com/radiosilver", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio-Silver.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.radiosuisseclassique.ch/en/playlist", 
+    "name": "Radio Swiss Classic", 
+    "mrl": "http://glb-stream10.streamserver.ch/2/rsc_fr/mp3_128", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Swiss_Classic.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.newrock933.com", 
+    "name": "New Rock 93.3", 
+    "mrl": "http://1862.live.streamtheworld.com:80/WTPTFM_SC", 
+    "logo": "http://remydumont.net/dev/rpl/img/New_Rock_93.3.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.live885.com", 
+    "name": "Live 88.5", 
+    "mrl": "http://2943.live.streamtheworld.com:80/CILVFMCMP3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Live_88.5.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.radiovitamine.fr", 
+    "name": "Radio Vitamine", 
+    "mrl": "http://broadcast.infomaniak.ch/radiovitamine-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Vitamine.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.mfm.fr", 
+    "name": "MFM", 
+    "mrl": "http://mfm.ice.infomaniak.ch/mfm-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/MFM.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.autorouteinfo.fr", 
+    "name": "Autoroute Info Nord", 
+    "mrl": "http://media.autorouteinfo.fr:8000/direct_nord.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Autoroute_Info.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.autorouteinfo.fr", 
+    "name": "Autoroute Info Sud", 
+    "mrl": "http://media.autorouteinfo.fr:8000/direct_sud.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Autoroute_Info.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://radiou.free.fr", 
+    "name": "Radio U", 
+    "mrl": "http://icecast.infini.fr:8000/radiou.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioU.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.adofm.fr", 
+    "name": "Ado FM", 
+    "mrl": "http://broadcast.infomaniak.net:80/start-adofm-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Ado_FM.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.nme.com", 
+    "name": "NME Radio", 
+    "mrl": "http://icy-e-01.sharp-stream.com/nmeradio.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NME_Radio.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.novfm.org", 
+    "name": "Nov FM", 
+    "mrl": "http://openradio.novfm.org:8000", 
+    "logo": "http://remydumont.net/dev/rpl/img/Nov_FM.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://www.magic-radio.net", 
+    "name": "Magic Radio", 
+    "mrl": "http://mp3.magic-radio.net", 
+    "logo": "http://remydumont.net/dev/rpl/img/Magic_Radio.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.atomicfm.fr", 
+    "name": "Atomic FM", 
+    "mrl": "http://stream.nexilia.net:9666/;", 
+    "logo": "http://remydumont.net/dev/rpl/img/Atomic_FM.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.fokusmusik.com/doublexx.html", 
+    "name": "Double XX", 
+    "mrl": "http://sv3.vestaradio.com:6940/listen.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Double_XX.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.npr.org", 
+    "name": "NPR", 
+    "mrl": "http://npr.ic.llnwd.net/stream/npr_live24", 
+    "logo": "http://remydumont.net/dev/rpl/img/NPR.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.europafm.com", 
+    "name": "Europa FM", 
+    "mrl": "http://stream.europafmgipuzkoa.com:8000/", 
+    "logo": "http://remydumont.net/dev/rpl/img/EuropaFM.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rsr.ch/#/la-1ere/", 
+    "name": "La 1\u00e8re", 
+    "mrl": "http://broadcast.infomaniak.ch/rsr-la1ere-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/La_1ere.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.rsr.ch/#/espace-2/", 
+    "name": "Espace 2", 
+    "mrl": "http://broadcast.infomaniak.ch/rsr-espace2-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Espace2.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rtbf.be/lapremiere/", 
+    "name": "La Premi\u00e8re", 
+    "mrl": "http://streaming.rtbf.be:8000/prem128xrtbf", 
+    "logo": "http://remydumont.net/dev/rpl/img/La_Premiere.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://radio.klara.be", 
+    "name": "Klara", 
+    "mrl": "http://mp3.streampower.be/klara-high", 
+    "logo": "http://remydumont.net/dev/rpl/img/Klara.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.relax-fm.ru", 
+    "name": "Relax FM", 
+    "mrl": "http://217.29.51.162:8000/relaxfm-72k.aac", 
+    "logo": "http://remydumont.net/dev/rpl/img/RelaxFM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.bbc.co.uk/radio1/", 
+    "name": "BBC 1", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio1/radio1_bb_live_int_eq1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio1.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.bbc.co.uk/1xtra/", 
+    "name": "BBC 1 Xtra", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/1xtra/1xtra_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio1-Xtra.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.bbc.co.uk/radio2/", 
+    "name": "BBC 2", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio2/radio2_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio2.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.bbc.co.uk/radio3/", 
+    "name": "BBC 3", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio3/radio3_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio3.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.bbc.co.uk/radio4/", 
+    "name": "BBC 4", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio4/radio4_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio4.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.bbc.co.uk/5live/", 
+    "name": "BBC 5 Live", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio5/radio5_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio5-Live.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.bbc.co.uk/5livesportsextra/", 
+    "name": "BBC 5 Live Sports Extra", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio5/5spxtra_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio5-Sports.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.bbc.co.uk/6music/", 
+    "name": "BBC 6 Music", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/6music/6music_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio6.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.bbc.co.uk/radio4extra/", 
+    "name": "BBC 4 Extra", 
+    "mrl": "mms://wmlive-nonacl.bbc.net.uk/wms/bbc_ami/radio4/radio4xtra_bb_live_int_ep1_sl0?", 
+    "logo": "http://remydumont.net/dev/rpl/img/BBC_Radio4Extra.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virginradio.it", 
+    "name": "Virgin Radio Italia", 
+    "mrl": "http://shoutcast.unitedradio.it:1301/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin_Style_Rock.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virginradio.it", 
+    "name": "Virgin Rock Classico", 
+    "mrl": "http://shoutcast.unitedradio.it:1307/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin_Rock_Classic.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virginradio.it", 
+    "name": "Virgin Rock Alternative", 
+    "mrl": "http://shoutcast.unitedradio.it:1513/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin_Alternative.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virginradio.it", 
+    "name": "Virgin Hard Rock", 
+    "mrl": "http://shoutcast.unitedradio.it:1309/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin_Hardrock.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://www.virginradio.it", 
+    "name": "Virgin Rock 80", 
+    "mrl": "http://shoutcast.unitedradio.it:1411/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin_Rock80.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.hardcoreradio.nl", 
+    "name": "Hardcore Radio", 
+    "mrl": "http://shoutcast2.hardcoreradio.nl/listen.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hardcore_Radio.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radioflaixbac.cat", 
+    "name": "R\u00e0dio Flaixbac", 
+    "mrl": "http://flaix.stream.flumotion.com/flaix/flaixbac.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Flaixbac.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.nashe.ru", 
+    "name": "\u041d\u0410\u0428\u0415\u0433\u043e \u0420\u0430\u0434\u0438\u043e", 
+    "mrl": "http://188.127.243.169:80/nashe-128", 
+    "logo": ""
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radiogalere.org", 
+    "name": "Radio Gal\u00e8re", 
+    "mrl": "http://www.radiogalere.org:8080/galere.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Galere.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://radioaleo.org", 
+    "name": "Radio Al\u00e9o", 
+    "mrl": "http://vt-net.org:8056", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Aleo.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rtve.es/radio", 
+    "name": "RNE", 
+    "mrl": "http://rtve.stream.flumotion.com/rtve/radio1.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RNE.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.rtve.es/radio/radioclasica", 
+    "name": "RNE Cl\u00e1sica", 
+    "mrl": "http://rtve.stream.flumotion.com/rtve/radioclasica.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RNE_Clasica.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.rtve.es/radio/radio3", 
+    "name": "RNE Radio 3", 
+    "mrl": "http://rtve.stream.flumotion.com/rtve/radio3.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RNE_Radio3.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.rtve.es/radio/radio4", 
+    "name": "RNE R\u00e0dio 4", 
+    "mrl": "http://rtve.stream.flumotion.com/rtve/radio4.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RNE_Radio4.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rtve.es/radio/radio5", 
+    "name": "RNE Radio 5", 
+    "mrl": "http://rtve.stream.flumotion.com/rtve/radio5.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RNE_Radio5.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.rtve.es/radio/radio-exterior", 
+    "name": "RNE Radio Exterior", 
+    "mrl": "http://rtve.stream.flumotion.com/rtve/radioexterior.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RNE_Radio_Exterior.png"
+  }, 
+  {
+    "category": "Reggae/Ska", 
+    "website": "http://www.radioreggae.net", 
+    "name": "Radio Reggae", 
+    "mrl": "http://online.radiodifusion.net:8054/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Reggae.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://wqxr.org", 
+    "name": "WQXR", 
+    "mrl": "http://wnyc-wqxr-ice.streamguys.com:80/wqxr", 
+    "logo": "http://remydumont.net/dev/rpl/img/WQXR.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://jmintheam.org", 
+    "name": "JM in the AM", 
+    "mrl": "http://www.wfmu.org/jm128k.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/JMintheAM.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://absoluteradio.co.uk", 
+    "name": "Absolute Radio", 
+    "mrl": "http://mp3-vr-128.as34763.net:80/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Absolute_Radio.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://xfm.co.uk", 
+    "name": "XFM", 
+    "mrl": "mmsh://mediasrv-sov.musicradio.com/xfmlondon", 
+    "logo": "http://remydumont.net/dev/rpl/img/Xfm.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://klove.com", 
+    "name": "K-Love", 
+    "mrl": "http://mp3.eap.dpa.miisolutions.streamguys.us/klove_itunes_high_01", 
+    "logo": "http://remydumont.net/dev/rpl/img/K-Love.png"
+  }, 
+  {
+    "category": "Reggae/Ska", 
+    "website": "http://webadubradio.fr", 
+    "name": "Webadub", 
+    "mrl": "http://176.31.240.114:8050", 
+    "logo": "http://remydumont.net/dev/rpl/img/Webadub.png"
+  }, 
+  {
+    "category": "Reggae/Ska", 
+    "website": "http://lagrosseradio.com/webradio/f-reggae.html", 
+    "name": "La Grosse Radio Reggae", 
+    "mrl": "http://hd.lagrosseradio.info:8300", 
+    "logo": "http://remydumont.net/dev/rpl/img/LGR_Reggae.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://lagrosseradio.com/webradio/f-rock.html", 
+    "name": "La Grosse Radio Rock", 
+    "mrl": "http://hd.lagrosseradio.info:8500", 
+    "logo": "http://remydumont.net/dev/rpl/img/LGR_Rock.png"
+  }, 
+  {
+    "category": "Metal", 
+    "website": "http://lagrosseradio.com/webradio/f-metal.html", 
+    "name": "La Grosse Radio Metal", 
+    "mrl": "http://hd.lagrosseradio.info:8200", 
+    "logo": "http://remydumont.net/dev/rpl/img/LGR_Metal.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://frequence-tropicale.fr", 
+    "name": "Fr\u00e9quence Tropicale", 
+    "mrl": "http://manager2.streaming-ingenierie.fr/tunein.php/frequencetropical202/playlist.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Frequence_Tropicale.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://kissfm.ua", 
+    "name": "Kiss-FM.ua", 
+    "mrl": "http://stream.kissfm.ua:8000/kiss", 
+    "logo": "http://remydumont.net/dev/rpl/img/Kiss-FM.ua.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://ksl.com/", 
+    "name": "KSL", 
+    "mrl": "http://stream.ksl.com/kslradio.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/KSL.png"
+  }, 
+  {
+    "category": "World Music", 
+    "website": "http://www.balad.fm", 
+    "name": "Balad FM", 
+    "mrl": "mmsh://wma.str3am.com/ammannet", 
+    "logo": "http://remydumont.net/dev/rpl/img/Balad_FM.png"
+  }, 
+  {
+    "category": "World Music", 
+    "website": "http://www.concertzender.nl", 
+    "name": "Concertzender Wereldmuziek", 
+    "mrl": "http://streams.greenhost.nl:8080/wereldmuziek", 
+    "logo": "http://remydumont.net/dev/rpl/img/Concertzender_Wereldmuziek.png"
+  }, 
+  {
+    "category": "World Music", 
+    "website": "http://www.radioteentaal.com/", 
+    "name": "Radio Teen Taal", 
+    "mrl": "http://www.radioteentaal.com/masala128.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioTeenTaal.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.acoustiqueradio.fr", 
+    "name": "Acoustique Radio", 
+    "mrl": "http://acoustiqueradio.fr/live/live.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Ascoustique_Radio.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.frequence3.fr/", 
+    "name": "Fr\u00e9quence 3", 
+    "mrl": "http://firewall.frequence3.net/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Frequence3.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.freshbeat.ru", 
+    "name": "FreshBeat Radio", 
+    "mrl": "http://music.freshbeat.ru/mp3128", 
+    "logo": "http://remydumont.net/dev/rpl/img/FreshBeat_Radio.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://q-music.be", 
+    "name": "Qmusic", 
+    "mrl": "http://vip2.str.reasonnet.com/q-music.be_hi", 
+    "logo": "http://remydumont.net/dev/rpl/img/Qmusic.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.los40.com", 
+    "name": "Los40.com", 
+    "mrl": "http://provisioning.streamtheworld.com/pls/LOS40.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Los40.com.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.cadena100.es", 
+    "name": "Cadena 100", 
+    "mrl": "mms://a14.l12014932013.c120149.l.lm.akamaistream.net/D/14/120149/v0001/reflector:32013", 
+    "logo": "http://remydumont.net/dev/rpl/img/Cadena_100.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.cadenaser.com", 
+    "name": "Cadena Ser", 
+    "mrl": "http://94.75.206.136:8135/stream", 
+    "logo": "http://remydumont.net/dev/rpl/img/Cadena_Ser.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.cope.es", 
+    "name": "Cadena Cope", 
+    "mrl": "http://rockandgol.cope.stream.flumotion.com/cope/copefm.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/Cadena_Cope.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.rockandgol.net", 
+    "name": "Rock FM", 
+    "mrl": "http://mfile.akamai.com/120146/live/reflector:31646.asx", 
+    "logo": "http://remydumont.net/dev/rpl/img/RockFM.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.flaixfm.cat", 
+    "name": "Flaix FM", 
+    "mrl": "http://195.10.10.201/flaix/FLAIXfm.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Flaix_FM.png"
+  }, 
+  {
+    "category": "World Music", 
+    "website": "http://www.powerturk.com", 
+    "name": "Power T\u00fcrk FM", 
+    "mrl": "http://46.20.4.58:8040/listen.pls", 
+    "logo": "http://remydumont.net/dev/rpl/img/Power_Turk.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virginradioturkiye.com", 
+    "name": "Virgin Radio Turkey", 
+    "mrl": "http://virginsc.radyotvonline.com:80/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virgin.png"
+  }, 
+  {
+    "category": "Country", 
+    "website": "http://www.q97country.com", 
+    "name": "Q97 Country", 
+    "mrl": "http://2583.live.streamtheworld.com:80/KNCQFMAACCMP3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Q97FM.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.rtbf.be/purefm", 
+    "name": "Pure FM", 
+    "mrl": "http://streaming.rtbf.be:8000/pure128xrtbf", 
+    "logo": "http://remydumont.net/dev/rpl/img/Pure_FM.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.king.org", 
+    "name": "King FM 98.1", 
+    "mrl": "http://sc1.abacast.com:8246", 
+    "logo": "http://remydumont.net/dev/rpl/img/King_FM.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://forum.fr", 
+    "name": "Forum", 
+    "mrl": "http://broadcast.infomaniak.net:80/start-forum-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Forum.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://promodj.ru/radio/#16bit", 
+    "name": "16Bit.FM", 
+    "mrl": "http://radio.promodeejay.net:8000/16bit", 
+    "logo": "http://remydumont.net/dev/rpl/img/16bit_FM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://addictedtoradio.com/music/internet-radio-stations/top-40-pop-radio-stations/channel-one/#", 
+    "name": "Channel One", 
+    "mrl": "http://wms-15.streamsrus.com:9710", 
+    "logo": "http://remydumont.net/dev/rpl/img/Channel_One.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.kera.org", 
+    "name": "Kera", 
+    "mrl": "http://kera-ice.streamguys.us:80/keralive", 
+    "logo": "http://remydumont.net/dev/rpl/img/KERA.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.m2radio.fr/?m2=radio", 
+    "name": "M2 Radio", 
+    "mrl": "http://www.m2radio.fr/pls/m2radio_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Radio.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://www.m2radio.fr/?m2=analog", 
+    "name": "M2 Analog", 
+    "mrl": "http://www.m2radio.fr/pls/m2analog_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Analog.png"
+  }, 
+  {
+    "category": "Latino/Salsa", 
+    "website": "http://www.m2radio.fr/?m2=caliente", 
+    "name": "M2 Caliente", 
+    "mrl": "http://www.m2radio.fr/pls/m2caliente_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Caliente.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.m2radio.fr/?m2=chillout", 
+    "name": "M2 Chillout", 
+    "mrl": "http://www.m2radio.fr/pls/m2chillout_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Chillout.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://www.m2radio.fr/?m2=classic", 
+    "name": "M2 Classic", 
+    "mrl": "http://www.m2radio.fr/pls/m2classic_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Classic.png"
+  }, 
+  {
+    "category": "90's", 
+    "website": "http://www.m2radio.fr/?m2=digital", 
+    "name": "M2 Digital", 
+    "mrl": "http://antarctica.m2stream.fr:9080", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Digital.png"
+  }, 
+  {
+    "category": "Jazz/Blues", 
+    "website": "http://www.m2radio.fr/?m2=jazz", 
+    "name": "M2 Jazz", 
+    "mrl": "http://www.m2radio.fr/pls/m2jazz_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Jazz.png"
+  }, 
+  {
+    "category": "Love", 
+    "website": "http://www.m2radio.fr/?m2=love", 
+    "name": "M2 Love", 
+    "mrl": "http://www.m2radio.fr/pls/m2love_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Love.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.m2radio.fr/?m2=mix", 
+    "name": "M2 Mix", 
+    "mrl": "http://www.m2radio.fr/pls/m2mix_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Mix.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.m2radio.fr/?m2=purple", 
+    "name": "M2 Purple", 
+    "mrl": "http://www.m2radio.fr/pls/m2purple_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Purple.png"
+  }, 
+  {
+    "category": "Reggae/Ska", 
+    "website": "http://www.m2radio.fr/?m2=sunshine", 
+    "name": "M2 Sunshine", 
+    "mrl": "http://www.m2radio.fr/pls/m2sunshine_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Sunshine.png"
+  }, 
+  {
+    "category": "70's", 
+    "website": "http://www.m2radio.fr/?m2=vinyl", 
+    "name": "M2 Vinyl", 
+    "mrl": "http://www.m2radio.fr/pls/m2vinyl_winamp.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/M2_Vinyl.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.click2dance.co.il/", 
+    "name": "Click2Dance", 
+    "mrl": "http://www.click2dance.co.il/click2dance.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/Click2Dance.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.antyradio.pl/", 
+    "name": "Antyradio", 
+    "mrl": "http://94.23.89.48:7300/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Antyradio.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.chlorophyllefm.fr", 
+    "name": "Chlorophylle FM", 
+    "mrl": "http://chlorophylle.ice.infomaniak.ch/playlists/chlorophylle-128.mp3.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/Chlorophylle_FM.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://tropikfm.pagesperso-orange.fr/index.htm", 
+    "name": "Tropik FM", 
+    "mrl": "http://beta.virtuallifestream.com:10736/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Tropik_FM.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.zenfm.be", 
+    "name": "Zen FM", 
+    "mrl": "http://ns25042.ovh.net:8010", 
+    "logo": "http://remydumont.net/dev/rpl/img/Zen_FM.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.tokfm.pl", 
+    "name": "TOK FM", 
+    "mrl": "http://wroclaw.radio.pionier.net.pl:8000/pl/tuba10-1.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/TOK_FM.png"
+  }, 
+  {
+    "category": "Rock/Goth", 
+    "website": "http://www.schwarze-welle.de", 
+    "name": "Schwarze Welle", 
+    "mrl": "http://www.schwarze-welle.de/play.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/Schwarze_Welle.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.m2o.it", 
+    "name": "m2o", 
+    "mrl": "http://mp3.kataweb.it:8000/M2O", 
+    "logo": "http://remydumont.net/dev/rpl/img/m2o.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.purple-radio.co.uk/", 
+    "name": "Purple Radio", 
+    "mrl": "http://stream-3.streamsolutions.co.uk:9062/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Purple_Radio.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.radioradicale.it/", 
+    "name": "Radio Radicale", 
+    "mrl": "http://livemp3.radioradicale.it/live.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Radicale.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.band.com.br/", 
+    "name": "Band News S\u00e3o Paulo", 
+    "mrl": "http://77.67.109.164/NEWSSAOAAC", 
+    "logo": "http://remydumont.net/dev/rpl/img/Band_News.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://jovempan.uol.com.br/", 
+    "name": "Jovem Pan Online", 
+    "mrl": "mms://p.mm.uol.com.br/ampan", 
+    "logo": "http://remydumont.net/dev/rpl/img/Jovem_Pan.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.horizonteacores.com/", 
+    "name": "R\u00e1dio Horizonte A\u00e7ores", 
+    "mrl": "http://195.8.58.141:2025", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Horizonte.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radio.usp.br/", 
+    "name": "R\u00e1dio USP 93.7 FM", 
+    "mrl": "mmsh://wms.emm.usp.br:7070/radiouspw", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_USP.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "www.mc-doualiya.com", 
+    "name": "Monte Carlo Doualiya", 
+    "mrl": "http://mp3.live.tv-radio.com/montecarlodoualiya/all/montecarlodoualiya-128k.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/MDC.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "www.mc-doualiya.com", 
+    "name": "Monte Carlo Doualiya 2", 
+    "mrl": "http://mp3.live.tv-radio.com/montecarlodoualiyafilmusical/all/montecarlodoualiyafilmusical-128k.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/MDC.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop Lyon", 
+    "mrl": "http://mp3.live.tv-radio.com/scooplyon/all/scooplyon-128k.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop St-Etienne", 
+    "mrl": "http://mp3.live.tv-radio.com/scoop/all/scoopst.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop Clermont", 
+    "mrl": "http://mp3.live.tv-radio.com/scoop/all/scoopclermont.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop Bourg", 
+    "mrl": "http://mp3.live.tv-radio.com/scoop/all/scoopbeb.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "80's", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop 80's", 
+    "mrl": "http://stream.radioscoop.com/scoop1.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop MusicPOD", 
+    "mrl": "http://stream.radioscoop.com/scoop2.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop Dance", 
+    "mrl": "http://stream.radioscoop.com/scoop3.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Love", 
+    "website": "http://www.radioscoop.com/", 
+    "name": "Radio Scoop Love", 
+    "mrl": "http://stream.radioscoop.com/scoop4.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Scoop.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.you-fm.de/", 
+    "name": "You FM", 
+    "mrl": "http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u", 
+    "logo": "http://remydumont.net/dev/rpl/img/YouFM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.capital.it", 
+    "name": "Radio Capital", 
+    "mrl": "mms://wm.streaming.kataweb.it/reflector:23305", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_Capital.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Hip-Hop", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hiphop-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Hip-Hop.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.hotmixradio.fr", 
+    "name": "Hotmix Lounge", 
+    "mrl": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-lounge-128.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Hotmix_Lounge.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Big 5", 
+    "mrl": "http://mp3.live.tv-radio.com/2497/nrj_big_5/nrj_113725.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Big5.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ St Tropez", 
+    "mrl": "http://mp3.live.tv-radio.com/2500/nrj_saint_tropez/nrj_114322.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_StTropez.png"
+  }, 
+  {
+    "category": "Zen/Lounge", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Lounge", 
+    "mrl": "http://95.81.147.7/3786/nrj_3786.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Lounge.png"
+  }, 
+  {
+    "category": "Zouk", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Zouk", 
+    "mrl": "http://mp3.live.tv-radio.com/2619/nrj_zouk/nrj_125115.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Zouk.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Urban", 
+    "mrl": "http://mp3.live.tv-radio.com/2775/nrj_urban/nrj_095438.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Urban.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ In Bed", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_in_bed/all/nrj_135650.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_InBed.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Trance", 
+    "mrl": "http://mp3.live.tv-radio.com/2495/nrj_trance/nrj_113417.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Trance.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Summer", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_soleil/all/nrj_155103.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Summer.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Lady Gaga", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_lady_gaga/all/nrj_152704.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_LadyGaga.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ At Work", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_at_work/all/nrj_143400.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_AtWork.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Rihanna", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_rihanna/all/nrj_163955.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Rihanna.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Girl", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_girl/all/nrj_153716.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_Girl.png"
+  }, 
+  {
+    "category": "Rap/R'n'B/Urban", 
+    "website": "http://www.nrj.fr", 
+    "name": "NRJ Rap US", 
+    "mrl": "http://mp3.live.tv-radio.com/nrj_rap_us/all/nrj_144854.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NRJ_RapUS.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://starfm.de", 
+    "name": "STAR FM Maximum Rock", 
+    "mrl": "http://87.230.53.43:8000/", 
+    "logo": "http://remydumont.net/dev/rpl/img/StarFM_Maximum_Rock.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://starfm.de", 
+    "name": "STAR FM From Hell", 
+    "mrl": "http://87.230.53.43:7000/", 
+    "logo": "http://remydumont.net/dev/rpl/img/StarFM_From_Hell.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://starfm.de", 
+    "name": "STAR FM Rock Classics", 
+    "mrl": "http://87.230.53.43:8008/", 
+    "logo": "http://remydumont.net/dev/rpl/img/StarFM_Rock_Classics.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://starfm.de", 
+    "name": "STAR FM Alternative", 
+    "mrl": "http://87.230.53.43:7004/", 
+    "logo": "http://remydumont.net/dev/rpl/img/StarFM_Alternative.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.fluxfm.de", 
+    "name": "Flux FM", 
+    "mrl": "http://stream.hoerradar.de/fluxfm-berlin", 
+    "logo": "http://remydumont.net/dev/rpl/img/Flux_FM.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.lrt.lt/opus3/", 
+    "name": "Opus 3", 
+    "mrl": "mms://82.135.234.194/Opus3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Opus3.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.virageradio.com/", 
+    "name": "Virage Radio", 
+    "mrl": "http://virageradio.ice.infomaniak.ch/virageradio-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Virage_Radio.png"
+  }, 
+  {
+    "category": "Maghreb/Oriental", 
+    "website": "http://www.mosaiquefm.net/", 
+    "name": "Mosa\u00efque FM", 
+    "mrl": "mms://stream.mosaiquefm.net/mosaique64k", 
+    "logo": "http://remydumont.net/dev/rpl/img/Mosaique_FM.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.90elf.de/", 
+    "name": "90elf.", 
+    "mrl": "http://stream.90elf.de/hq/mp3/listenliveeu/", 
+    "logo": "http://remydumont.net/dev/rpl/img/90elf.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.einslive.de/", 
+    "name": "1 Live", 
+    "mrl": "http://gffstream.ic.llnwd.net/stream/gffstream_stream_wdr_einslive_a", 
+    "logo": "http://remydumont.net/dev/rpl/img/1Live.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.radio666.com/", 
+    "name": "Radio 666", 
+    "mrl": "http://radio666.net:8000", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio666.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.kerrangradio.co.uk/", 
+    "name": "Kerrang! Radio", 
+    "mrl": "http://icy-e-01.sharp-stream.com/kerrang.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/KerrangRadio.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.air1.com/", 
+    "name": "Air1", 
+    "mrl": "http://listen.emfcdn.com/play/sa/001_high.asx", 
+    "logo": "http://remydumont.net/dev/rpl/img/Air1.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.rclamego.pt", 
+    "name": "Radio Club Lamego", 
+    "mrl": "http://109.71.41.250:8110/", 
+    "logo": "http://remydumont.net/dev/rpl/img/RCLamengo.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radiolodz.pl", 
+    "name": "PR Radio \u0141\u00f3d\u017a", 
+    "mrl": "http://217.113.224.166:8000/radiolodz1.ogg", 
+    "logo": "http://remydumont.net/dev/rpl/img/RadioLodz.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://zloteprzeboje.tuba.pl", 
+    "name": "Z\u0142ote Przeboje", 
+    "mrl": "http://www.tuba.fm/stream.pls?radio=9&mp3=1", 
+    "logo": "http://remydumont.net/dev/rpl/img/ZlotePrzeboje.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://hits.futuradios.com/", 
+    "name": "Futuradios Hits&Rock", 
+    "mrl": "http://www.futuradios.com/ecoute/hits/128/hd-vlc.m3u", 
+    "logo": "http://www.futuradios.com/ecoute/hitsandrock.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://dance.futuradios.com/", 
+    "name": "Futuradios Dance", 
+    "mrl": "http://www.futuradios.com/ecoute/dance/128/hd-vlc.m3u", 
+    "logo": "http://www.futuradios.com/ecoute/dance.png"
+  }, 
+  {
+    "category": "Electro/Dance", 
+    "website": "http://sweet.futuradios.com/", 
+    "name": "Futuradios Pop&Sweet", 
+    "mrl": "http://www.futuradios.com/ecoute/sweet/128/hd-vlc.m3u", 
+    "logo": "http://www.futuradios.com/ecoute/popandsweet.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.radio-ellebore.com/", 
+    "name": "Ell\u00e9bore", 
+    "mrl": "http://ellebore.ice.infomaniak.ch/ellebore-high.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Ellebore.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://entertainment.xin.msn.com/en/radio/warna942/", 
+    "name": "Warna", 
+    "mrl": "http://www.mediacorpradio.sg/radioliveplayer/asx/warna942/fm942.asx", 
+    "logo": "http://remydumont.net/dev/rpl/img/Warna.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://unisifm.com/", 
+    "name": "Unisi Radio Jogja", 
+    "mrl": "http://stream.unisifm.com:8000/", 
+    "logo": "http://remydumont.net/dev/rpl/img/Unisi.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.swr3.de", 
+    "name": "SWR3", 
+    "mrl": "http://swr.ic.llnwd.net/stream/swr_mp3_m_swr3a", 
+    "logo": "http://remydumont.net/dev/rpl/img/SWR3.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.n-joy.de/", 
+    "name": "N-JOY", 
+    "mrl": "http://ndrstream.ic.llnwd.net/stream/ndrstream_n-joy_hi_mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/NJOY.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.rfi.fr/afrique", 
+    "name": "RFI Afrique", 
+    "mrl": "http://stream.rfi.fr/rfiafrique/all/rfiafrique-64k.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/RFI.png"
+  }, 
+  {
+    "category": "Info/Sport/Culture", 
+    "website": "http://www.voanews.com/french/news/africa/", 
+    "name": "VOA Afrique", 
+    "mrl": "http://www.voanews.com/wm/live/live-frenchtoafrica-a.asx", 
+    "logo": "http://remydumont.net/dev/rpl/img/VOA_Afrique.png"
+  }, 
+  {
+    "category": "Other/Autres", 
+    "website": "http://www.africa1.com/", 
+    "name": "Africa N\u00b01", 
+    "mrl": "http://ns544.ovh.net:8000/a1", 
+    "logo": "http://remydumont.net/dev/rpl/img/Africa1.png"
+  }, 
+  {
+    "category": "Classic", 
+    "website": "http://radiomec.com.br/mecfm/", 
+    "name": "R\u00e1dio MEC FM", 
+    "mrl": "http://radioslivres.radiobras.gov.br:8080/mecfm.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Radio_MEC_FM.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.rx931.com/", 
+    "name": "Monster Radio DWRX 93.1 FM", 
+    "mrl": "mmsh://xp.martin.bitstop.ph/monsterrx", 
+    "logo": "http://remydumont.net/dev/rpl/img/RX931.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.easyrock.com.ph/", 
+    "name": "Easy Rock DWRK 96.3 FM", 
+    "mrl": "http://mirrors.martin.bitstop.ph/dwrock", 
+    "logo": "http://remydumont.net/dev/rpl/img/Easy_Rock.png"
+  }, 
+  {
+    "category": "Jazz/Blues", 
+    "website": "http://www.crossover.fm", 
+    "name": "Crossover DWBM 105.1 FM", 
+    "mrl": "http://www.eradioportal.com/marecolo.asx", 
+    "logo": "http://remydumont.net/dev/rpl/img/Crossover.png"
+  }, 
+  {
+    "category": "Funk/Disco", 
+    "website": "http://www.generationdiscofunk.com", 
+    "name": "G\u00e9n\u00e9ration Disco Funk", 
+    "mrl": "http://stream.generationdiscofunk.com:80", 
+    "logo": "http://remydumont.net/dev/rpl/img/Generation_Disco_Funk.png"
+  }, 
+  {
+    "category": "Hits", 
+    "website": "http://www.metropolys.com", 
+    "name": "Metropolys", 
+    "mrl": "http://mp3.live.tv-radio.com/rocfm/all/rocfm-128k.mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/Metropolys.png"
+  }, 
+  {
+    "category": "Pop/Rock", 
+    "website": "http://www.1.fm/Station/X/Default.aspx", 
+    "name": "1.fm Alternative Rock X Hits", 
+    "mrl": "http://tai.egihosting.com/x-128k-mp3", 
+    "logo": "http://remydumont.net/dev/rpl/img/1.fm_Alternative_Rock.png"
+  }
+]

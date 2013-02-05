@@ -1,0 +1,32 @@
+<div class="row">
+	<div class="span12">
+		<p class="section-header">TITLES</p>
+		<hr class="header-line">	
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12">
+		<table class="table table-hover">
+			<thead>
+				<th>#</th>
+				<th>Title</th>
+				<th>Artist</th>
+				<th>Album</th>
+			</thead>
+			<tbody data-bind="foreach: googleMusicLibrary">
+				<tr>
+					<td>1</td>
+					<td data-bind="text: $data.title"></td>
+					<td data-bind="text: $data.artist"></td>
+					<td data-bind="text: $data.album"></td>
+					<td>
+						<a class="btn" data-bind="click: $parent.playGoogleMusicSong">
+							<i class="icon-play"></i>
+						</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>

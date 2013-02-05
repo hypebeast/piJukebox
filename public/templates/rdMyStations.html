@@ -1,0 +1,186 @@
+  <div class="span12">
+<div class="row">
+    <div class="span4">
+      <p class="section-header">MY STATIONS</p>
+    </div>
+    <div class="span8">
+      <a id="add_station" href="#add-station-modal"
+        data-toggle="modal" class="btn-small btn-primary pull-right"
+        style="margin-bottom: 0px;"
+        data-bind="click: resetForm.bind($data, 'add-station-form')">
+        Add Station
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <hr class="header-line">    
+  </div>
+</div>
+
+<div id="add-station-modal" class="modal hide fade">
+  <div class="modal-header">
+    <h3>Add Radio Station</h3>
+  </div>
+
+  <form id="add-station-form" data-bind="submit: addStation">
+    <div class="modal-body">
+      <div class="form-horizontal">
+        <div class="control-group">
+          <label class="control-label" for="stationName">Name</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="stationName" id="stationName" size="200" placeholder="Station Name">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="mrl">MRL</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="mrl" id="mrl" placeholder="MRL">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="website">Website</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="website" id="website" placeholder="Website">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="logo">Logo</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="logo" id="logo" placeholder="Logo">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal">Cancel</button>
+      <input type="submit" value="Save" class="btn btn-primary"/>
+    </div>
+  </form>
+</div>
+
+<div id="edit-station-modal" class="modal hide fade" data-bind="if: editedRadioStation">
+  <div class="modal-header">
+    <h3>Edit Radio Station</h3>
+  </div>
+
+  <form id="edit-station-form" data-bind="submit: onRadioStationEdit">
+    <div class="modal-body">
+      <div class="form-horizontal">
+        <div class="span2 logo">
+          <img data-bind="attr: {src: editedRadioStation().logo}">
+        </div>
+
+        <div class="span10">
+          <div class="control-group">
+            <label class="control-label" for="stationName">Name</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" id="editStationName"
+                  placeholder="Station Name" data-bind="value: editedRadioStation().name">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="mrl">MRL</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" id="editMrl"
+                placeholder="MRL" data-bind="value: editedRadioStation().mrl">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="website">Website</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" id="editWebsite"
+                placeholder="Website" data-bind="value: editedRadioStation().website">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="logo">Logo</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" id="editLogo"
+                placeholder="Logo" data-bind="value: editedRadioStation().logo">
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal">Cancel</button>
+      <input type="submit" value="Save" class="btn btn-primary"/>
+    </div>
+  </form>
+</div>
+
+<!-- Delete radio station modal -->
+<div class="modal hide fade" id="delete-station-modal">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">
+      ×
+    </button>
+  </div>
+  <div class="modal-body">
+    <p>Are you sure you want to delete these radio station?</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#" class="btn" data-dismiss="modal">Cancel</a>
+    <input type="submit" class="btn btn-danger" value="Delete"
+      data-bind="click: function() { onRadioStationDelete( 'delete-station-modal' ) }" />
+  </div>
+</div>
+
+<!-- My Radio Stations -->
+<div class="row">
+  
+  <div class="my-rd-stations-list" id="my-stations-list">
+    <table class="table table-striped">
+      <tbody data-bind="foreach: myStations">
+        <tr>
+          <td class="logo unselectable">
+            <img data-bind="attr: {src: logo}">
+          </td>
+          <td class="radio">
+            <div class="radio">
+              <b data-bind="text: name"></b>
+              <div>
+                MRL: 
+                <span class="mri" style="max-width= 600px;" data-bind="text: mrl">
+                </span>
+              </div>
+              <div>
+                <span class="url">
+                  Website:
+                </span>
+                <a data-bind="attr: {href: website}, text: website"></a>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div class="buttons">
+              <a class="btn btn-small"
+                  data-bind="click: $parent.playStation">
+                Play
+              </a>
+              <a class="btn btn-small"
+                  data-bind="click: $parent.editStation"
+                  data-toggle="modal"
+                  href="#edit-station-modal">
+                Edit
+              </a>
+              <a class="btn btn-small"
+                  data-bind="click: $parent.setRadioStationToDelete"
+                  data-toggle="modal"
+                  href="#delete-station-modal">
+                Delete
+              </a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>

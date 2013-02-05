@@ -1,0 +1,31 @@
+<div class="row">
+	<div class="span12">
+		<p class="section-header">SETTINGS</p>
+  	<hr class="header-line">
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12">
+		<form id="settings-form" class="well form-horizontal">
+			<fieldset>
+				<h4>Google Music</h4>
+				<div class="control-group" style="margin-top: 20px;">
+					<label class="control-label">Username</label>
+					<div class="controls">
+						<input class="input-xlarge" type="text" placeholder="Username" data-bind="value: appSettings().gmUsername">
+					</div>
+				</div>
+				<div class="control-group">
+					<label class="control-label">Password</label>
+					<div class="controls">
+						<input class="input-xlarge" type="password" placeholder="Password" data-bind="value: appSettings().gmPassword">
+					</div>
+				</div>
+			</fieldset>
+			<div class="form-actions" style="padding: 5px 0px 0px 0px;">
+				<button class="btn btn-primary" data-bind="click: onSaveSettings">Save</button>
+			</div>
+		</form>
+	</div>
+</div>

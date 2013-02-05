@@ -1,0 +1,102 @@
+  <div class="span12">
+<div class="row">
+    <div class="span4">
+      <p class="section-header">RADIO STATIONS</p>
+    </div>
+    <div class="span8">
+      <a id="add_station" href="#add-station-modal"
+        data-toggle="modal" class="btn-small btn-primary pull-right"
+        style="margin-bottom: 0px;"
+        data-bind="click: resetForm.bind($data, 'add-station-form')">
+        Add Station
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <hr class="header-line">    
+  </div>
+</div>
+
+<div id="add-station-modal" class="modal hide fade">
+  <div class="modal-header">
+    <h3>Add Radio Station</h3>
+  </div>
+
+  <form id="add-station-form" data-bind="submit: addStation">
+    <div class="modal-body">
+      <div class="form-horizontal">
+        <div class="control-group">
+          <label class="control-label" for="stationName">Name</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="stationName" id="stationName" size="200" placeholder="Station Name">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="mrl">MRL</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="mrl" id="mrl" placeholder="MRL">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="website">Website</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="website" id="website" placeholder="Website">
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="logo">Logo</label>
+          <div class="controls">
+            <input class="input-xlarge" type="text" name="logo" id="logo" placeholder="Logo">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal">Cancel</button>
+      <input type="submit" value="Save" class="btn btn-primary"/>
+    </div>
+  </form>
+</div>
+
+<!-- Tabs -->
+<div class="row">
+
+  <!-- Radio Stations List -->
+  <div id="browse-radio-stations" data-bind="foreach: radioStations">
+
+    <div class="radio-station-container">
+      <div class="logo">
+        <img data-bind="attr: {src: logo}">
+      </div>
+
+      <div class="text">
+        <b data-bind="text: name"></b>
+        <span>
+          <a data-bind="attr: {href: website} ">Website</a>
+        </span>
+      </div>
+
+      <div class="buttons">
+        <div data-bind="ifnot: myStation">
+          <a data-bind="click: $parent.addStationToMyStations">
+            <span class="add-button"></span>
+          </a>
+        </div>
+        <div data-bind="if: myStation">
+          <a data-bind="click: $parent.removeStationFromMyStations">
+            <span class="delete-button"></span>
+          </a>
+        </div>
+        <a data-bind="click: $parent.playStation">
+          <span class="play-button"></span>
+        </a>
+      </div>
+    </div>
+
+  </div> <!-- Radio Stations List -->
+
+</div>
